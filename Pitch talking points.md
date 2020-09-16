@@ -19,7 +19,7 @@ Enrichment:
 
 **3. What we'll do**
 - Ingest the spending data, work out into which electorate it falls where possible.
-- Ingest the electoral results, categories into safe ALP / safe LNP / marginal.
+- Ingest the electoral results, categorise into safe ALP / safe LNP / marginal.
 - Visualise the results, see what we find. Spatial exploratory data analysis.
 - Mix in from the enrichment data sources.
 
